@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dangeliki
 - 👀 I’m interested in computer oriented fields of employment
-- 🌱 I’m a full-stack developing newbie!
+- 🌱 I’m a full-stack development newbie!
 - 📫 How to reach me : email me at angeliki.donta@outlook.com
 
 <!---
