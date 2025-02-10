@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angeliki Donta</h1>
 
-- 🌱 I’m a full-stack development newbie!
+- 🌱 I’m a full-stack developer newbie!
 
 - 📫 How to reach me **angeliki.donta@outlook.com**
 
